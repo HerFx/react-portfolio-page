@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-portfolio-page/static/js/3.8d74271d.chunk.js"
   },
   {
-    "revision": "372d45159f12f9dc9ae3da12e7d29681",
+    "revision": "9abaa1cf5e5c69bb1ea65ee5d0572eaa",
     "url": "/react-portfolio-page/index.html"
   }
 ];
